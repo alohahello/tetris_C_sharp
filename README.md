@@ -10,7 +10,6 @@ Error handling: Includes error handling for invalid moves and potential game sta
 
 # Development Environment
 C# Programming Language
-Ncurses library for text-based user interfaces
 
 # Useful Websites
 * [Web Site Name](http://url.link.goes.here)
